@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/productivity-tracker/static/css/main.cebe1a70.css",
+    "main.js": "/productivity-tracker/static/js/main.12c7d5e1.js",
+    "static/js/453.bc6af5bf.chunk.js": "/productivity-tracker/static/js/453.bc6af5bf.chunk.js",
+    "index.html": "/productivity-tracker/index.html",
+    "main.cebe1a70.css.map": "/productivity-tracker/static/css/main.cebe1a70.css.map",
+    "main.12c7d5e1.js.map": "/productivity-tracker/static/js/main.12c7d5e1.js.map",
+    "453.bc6af5bf.chunk.js.map": "/productivity-tracker/static/js/453.bc6af5bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cebe1a70.css",
+    "static/js/main.12c7d5e1.js"
+  ]
+}
