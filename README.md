@@ -26,3 +26,4 @@ The UI is minimal yet functional, featuring a dashboard with time stats, a list 
 Deployable via the Chrome Web Store or loaded locally in developer mode, this Productivity Tracker empowers users to take control of their online habits. It exemplifies how Chrome’s APIs can transform browsing into a productivity tool, blending technical precision with practical utility.
 
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/299bdb77-39d4-47f0-9bda-1d6bc4a1f6de)
